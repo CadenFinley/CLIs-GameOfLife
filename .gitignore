@@ -1,0 +1,30 @@
+# CMake build artifacts
+/build/
+/CMakeFiles/
+/CMakeCache.txt
+/cmake_install.cmake
+/Makefile
+
+# VSCode settings
+.vscode/
+
+# MacOS specific files
+.DS_Store
+
+# Compiled object files
+*.o
+*.obj
+
+# Compiled dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled static libraries
+*.a
+*.lib
+
+# Executable files
+*.exe
+*.out
+*.app
