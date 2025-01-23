@@ -1,6 +1,6 @@
 # Conway's Game of Life CLI
 
-This project is a simple implementation of Conway's Game of Life in C++ that runs in the command line interface (CLI). When I initially looked into this project I figured it would be more challenging to code, but in reality it took me a grand total of 30 minutes after I read the rules of the game.
+This project is a simple implementation of Conway's Game of Life in C++ that runs in the command line interface (CLI). When I initially looked into this project I figured it would be more challenging to code, but in reality it took me a grand total of 30 minutes after I read the rules of the game. You can create your own grid configurations by selecting certain cells to be active when the program starts, and you can also change the number of iteration cycles the program will take.
 
 ## How to Build
 
